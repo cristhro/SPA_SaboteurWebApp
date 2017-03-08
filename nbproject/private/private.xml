@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/middlewares/tableroMiddleware.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/newgame.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/login.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOComentarios.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOPartidas.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/game.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/joingame.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/controllers/partidaController.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOTableros_Partidas.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/controllers/usuarioController.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/middlewares/partidaMiddleware.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/config.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/middlewares/usuarioMiddleware.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOCartas_Juegan.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/partials/nav_partida.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/register.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/middlewares/jueganMiddleware.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOCartas_Partidas.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/middlewares/generalMiddleware.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/app.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/views/profile.ejs</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/controllers/controller.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/controllers/tableroController.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/controllers/jueganController.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOUsuarios.js</file>
+            <file>file:/C:/Users/cr/Documents/UCM%204/aw/team%20AW/saboteur/integration/DAOJuegan.js</file>
+        </group>
+    </open-files>
+</project-private>
